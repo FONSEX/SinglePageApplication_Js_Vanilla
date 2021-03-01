@@ -1,4 +1,4 @@
-# curso-spa
+# Course-SPA 
 
 Demostration of a single page application using JavaScript Vanilla
 
